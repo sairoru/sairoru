@@ -1,7 +1,7 @@
 <p align="center">𝓫𝓸𝓸𝓴𝓼 𝓪𝓷𝓭 𝓶𝓾𝓼𝓲𝓬 𝓪𝓻𝓮 𝓶𝔂 𝓸𝓷𝓵𝔂 𝓭𝓻𝓾𝓰𝓼.</p>
 
 <p align="center">
-  <img src="<img width="35%" height="360" alt="Image" src="https://github.com/user-attachments/assets/8597a169-6125-423e-898b-b5fe859dc4f3"/></p>
+  <img src="<img width="35%" height="360" src="https://github.com/user-attachments/assets/8597a169-6125-423e-898b-b5fe859dc4f3"/></p>
 
 𝓘 𝓜𝓸𝓷𝓼𝓽𝓮𝓻 - 𝓢𝓾𝓷𝓷𝔂 𝓓𝓮𝓵𝓲𝓰𝓱𝓽𝓼. <p align="right">𝓒𝓸𝓵𝓭𝓹𝓵𝓪𝔂 - 𝓐 𝓛 𝓘 𝓔 𝓝 𝓢.</p>
 
