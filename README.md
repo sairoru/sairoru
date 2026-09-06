@@ -6,3 +6,5 @@
 <img width="720" height="365" alt="Image" src="https://github.com/user-attachments/assets/a2eaeadf-2e5b-4c15-a075-99508637eaa8" />
 
 𝓒𝓸𝓵𝓭𝓹𝓵𝓪𝔂 - 𝓐 𝓛 𝓘 𝓔 𝓝 𝓢
+
+<img width="720" height="347" alt="Image" src="https://github.com/user-attachments/assets/c24b9e4a-fd32-4e94-8f1c-aedf120fa7ba" />
