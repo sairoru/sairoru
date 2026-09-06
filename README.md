@@ -13,4 +13,6 @@
 
 <img width="720" height="351" alt="Image" src="https://github.com/user-attachments/assets/3902b2d1-abf8-4236-940c-e2d6716cbcd7" />
 
+𝓜𝓸𝓽𝓱𝓮𝓻 𝓜𝓸𝓽𝓱𝓮𝓻 - 𝓜𝓸𝓭𝓮𝓻𝓷 𝓛𝓸𝓿𝓮.
+
 <img width="720" height="355" alt="Image" src="https://github.com/user-attachments/assets/c645b7d2-8f2d-45f5-92b4-f312ef216ca5" />
