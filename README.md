@@ -12,3 +12,5 @@
 𝓣𝓱𝓮 𝓒𝓾𝓻𝓮 - 𝓣𝓱𝓮 𝓣𝔀𝓲𝓵𝓲𝓰𝓱𝓽 𝓖𝓪𝓻𝓭𝓮𝓷.
 
 <img width="720" height="351" alt="Image" src="https://github.com/user-attachments/assets/3902b2d1-abf8-4236-940c-e2d6716cbcd7" />
+
+<img width="720" height="355" alt="Image" src="https://github.com/user-attachments/assets/c645b7d2-8f2d-45f5-92b4-f312ef216ca5" />
