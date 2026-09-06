@@ -10,3 +10,5 @@
 <img width="720" height="347" alt="Image" src="https://github.com/user-attachments/assets/c24b9e4a-fd32-4e94-8f1c-aedf120fa7ba" />
 
 𝓣𝓱𝓮 𝓒𝓾𝓻𝓮 - 𝓣𝓱𝓮 𝓣𝔀𝓲𝓵𝓲𝓰𝓱𝓽 𝓖𝓪𝓻𝓭𝓮𝓷.
+
+<img width="720" height="351" alt="Image" src="https://github.com/user-attachments/assets/3902b2d1-abf8-4236-940c-e2d6716cbcd7" />
