@@ -1,6 +1,6 @@
 𝓫𝓸𝓸𝓴𝓼 𝓪𝓷𝓭 𝓶𝓾𝓼𝓲𝓬 𝓪𝓻𝓮 𝓶𝔂 𝓸𝓷𝓵𝔂 𝓭𝓻𝓾𝓰𝓼.
 <img width="720" height="360" alt="Image" src="https://github.com/user-attachments/assets/8597a169-6125-423e-898b-b5fe859dc4f3" />
-<!--
+𝓘 𝓜𝓸𝓷𝓼𝓽𝓮𝓻 - 𝓢𝓾𝓷𝓷𝔂 𝓓𝓮𝓵𝓲𝓰𝓱𝓽𝓼
 **sairoru/sairoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
