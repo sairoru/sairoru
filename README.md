@@ -4,3 +4,5 @@
 𝓘 𝓜𝓸𝓷𝓼𝓽𝓮𝓻 - 𝓢𝓾𝓷𝓷𝔂 𝓓𝓮𝓵𝓲𝓰𝓱𝓽𝓼
 
 <img width="720" height="365" alt="Image" src="https://github.com/user-attachments/assets/a2eaeadf-2e5b-4c15-a075-99508637eaa8" />
+
+𝓒𝓸𝓵𝓭𝓹𝓵𝓪𝔂 - 𝓐 𝓛 𝓘 𝓔 𝓝 𝓢
